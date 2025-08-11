@@ -1,0 +1,5 @@
+number = 3
+number2 = 3
+a = "i have %2d times to try this game, " \
+"thus we should clear this game in %s times " % (number, number2)
+print(a)
